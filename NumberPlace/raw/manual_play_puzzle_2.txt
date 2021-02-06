@@ -1,0 +1,29 @@
+(2) Undo button.
+   Undo one operation.
+
+
+(3) Options menu
+   The actions you can do is as following.
+
+    * New puzzle
+      Generate a new puzzle and play it. The current puzzle will be discarded.
+
+    * Save
+      Save the current puzzle. The saved puzzle can be accessed via 'Collection' in the main screen.
+
+    * Restart
+      Reset the current puzzle and play from the beginning.
+
+    * Clear memo
+      Clear all memorandums.
+
+    * Find answer
+      Find the answer of the current puzzle by puzzle-solver program.
+
+
+(4) Play time
+   Shows time from the start of playing the current puzzle.
+
+
+(5) Fixed digit
+   You can't fill in the grey-colored square.

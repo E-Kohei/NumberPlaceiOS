@@ -1,0 +1,84 @@
+/* 
+  Localizable.strings
+  NumberPlace
+
+  Created by 江崎航平 on 2020/12/31.
+  
+*/
+
+// menu and title
+"menu_play" = "Play";
+"menu_make" = "Make";
+"menu_collections" = "Collections";
+
+"menu_newbie" = "Newbie";
+"menu_beginner" = "Beginner";
+"menu_medium" = "Medium";
+"menu_master" = "Master";
+"menu_legend" = "Legend";
+
+"menu_basic_operation" = "Basic operation";
+"menu_play_manual" = "Play puzzles";
+"menu_make_manual" = "Make puzzles";
+"menu_saved_manual" = "Handle the saved puzzles";
+
+"title_about_app" = "About this app";
+
+// operation menu
+"action_new" = "New Puzzle";
+"action_save" = "Save";
+"action_restart" = "Restart";
+"action_clear_note" = "Clear notes";
+"action_play" = "Play";
+"action_edit" = "Edit";
+"action_inspect" = "Inspect";
+"action_solve" = "Find answer";
+"action_quit" = "Quit";
+"you_did" = "Good job!!";
+
+// sudoku list view controller
+"loading_text" = "Loading...";
+"empty_text" = "No puzzle is saved";
+"delete_text" = "Delete";
+"copy_text" = "Copy";
+"text_playing" = "Playing";
+"text_making" = "Making";
+"text_solved" = "Solved";
+
+// messages
+"message_solving" = "Solving...";
+"message_solving_finished" = "Finished solving the puzzle.";
+"message_not_solvable" = "This numberplace cannot be solved.";
+"message_several_solutions" = "This numberplace has several solutions.";
+"message_computation_error" = "Sorry, unknown error occurred during computation.";
+"message_checking" = "Checking...";
+"message_solvable" = "This numberplace is solvable.";
+"message_making" = "Making...";
+"message_making_successed" = "Finished making a new puzzle.";
+"message_making_failed" = "Sorry, failed to make a puzzle.";
+"message_save_successed" = "The current puzzle has been saved.";
+"message_save_failed" = "Sorry, failed to save the puzzle.";
+"message_change_save_successed" = "The last change has been saved.";
+"message_change_save_failed" = "Sorry, failed to save the change.";
+
+"message_io_error" = "Sorry, an error occurred during reading a file";
+
+// alert
+"alert_title_solved" = "Congrats";
+"alert_text_solved" = "You solved this puzzle!!\nTime: %@";
+"alert_text_newpuzzle" = "Do you want to play a new puzzle?";
+"alert_text_restart" = "Do you want to restart this puzzle?";
+"alert_text_solve" = "Do you want to find the answer?";
+"alert_text_notsaved" = "The current puzzle is not saved. Do you want to quit without save?";
+"alert_text_change_notsaved" = "The recent change is not saved. Do you want to quit without save?";
+"alert_text_delete" = "Do you want to delete this puzzle?";
+"alert_action_yes" = "Yes";
+"alert_action_no" = "No";
+"alert_action_ok" = "OK";
+"alert_action_cancel" = "Cancel";
+"alert_action_quit" = "Quit";
+"alert_action_delete" = "Delete";
+
+
+// get the current language by tricky way
+"lang" = "EN";

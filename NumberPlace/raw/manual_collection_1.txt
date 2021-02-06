@@ -1,0 +1,20 @@
+(1) Make button
+   Make a new puzzle. This is same as selecting 'Make' in the main screen.
+
+
+
+(2) Puzzle's State
+   There are 3 states in a puzzle; Playing, Making and Solved. Depending on the state, the features of the puzzle screen varies a little.
+
+
+
+(3) Slide menu
+   Swiping an item to the left, you will see a menu slide in.
+
+    * Delete
+      Delete the puzzle. Before deleting it, a confirmation dialog appears.
+
+    * Copy
+      Copy the puzzle. The copy will be added to the bottom of the list.
+
+   To hide the slide menu, swipe the item to the right.

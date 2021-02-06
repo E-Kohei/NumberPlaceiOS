@@ -1,0 +1,46 @@
+Please read this End-User Lisence Agreement("Agreement") and Privacy Policy carefully before clicking the "I Agree" button or using this application("Application").
+This Agreement is a legal agreement between you and the provider of this Application("Provider") that governs your use of the Application.
+By clicking the "I Agree" button or using this application, you are agreeing to be bound by the terms and conditions of this Agreement and Privacy Policy.
+
+
+End-User License Agreement (EULA)
+
+1. Lisence
+The Provider grants you a revocable, non-exclusive, non-transferable, limited license to install and use the Application solely for your personal purposes strictly in accordance with the terms of this Agreement.
+
+
+2. Restrictions
+You agree not to, and you will not permit others to:
+a) license, sell, rent, lease, assign, distribute, transmit, host, outsource, disclose, decomplie or disassemble the Application or make the Application avaiable to any third party.
+
+
+3. Modifications to Application
+The Provider reserves the right to modify, suspend or discontinue, temporarily or permanently, the Application or any service to which it connects, with or without notice and without liability to you.
+
+
+4. Term and Termination
+This Agreement shall remain in effect until terminated by you or the Provider.
+
+The Provider may, in its sole direction, at any time and for any or no reason, suspend or terminate this Agreement with or without prior notice.
+
+This Agreement will terminate immediately, without prior notice from the Provider, in the event that you fail to comply with any provision of this Agreement. You may also terminate this Agreement by deleting the Application and all copies thereof from your device.
+
+Upon termination of this Agreement, you shall cease all use of the Application and delete all copies of the Application from your device.
+
+5. Disclaimer of Warranties
+The Provider disclaimes any and all other warranties, whether express or implied including without limitation any implied warranties of merchantability, satisfactory quality, fitness for a particular purpose, accuracy, timeliness, title, or non-infringement of third-party rights.
+
+6. Limitation of Liability
+In no event either party shall be liable for any direct, indirect, consequential, special, incidental, or punitive damages arising out of or in connection with your access or use of the Application.
+
+
+Privacy Policy
+
+This Application requires no personally identifiable information about you.
+
+Even if you send your data (such as your email address) to me, I do not use your data for any purposes except for contacting you, and do not share your data with any third parties.
+
+I may update my Privacy Policy with update of the Application. I will notify you of any changes on the new version of the Application.
+
+
+Last updated: February 5, 2021

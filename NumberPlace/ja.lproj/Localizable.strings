@@ -1,0 +1,84 @@
+/* 
+  Localizable.strings
+  NumberPlace
+
+  Created by 江崎航平 on 2020/12/31.
+  
+*/
+
+// menu and title
+"menu_play" = "解く";
+"menu_make" = "作る";
+"menu_collections" = "コレクション";
+
+"menu_newbie" = "超初級";
+"menu_beginner" = "初級";
+"menu_medium" = "中級";
+"menu_master" = "上級";
+"menu_legend" = "伝説級";
+
+"menu_basic_operation" = "基本操作";
+"menu_play_manual" = "パズルを解く";
+"menu_make_manual" = "パズルを作る";
+"menu_saved_manual" = "保存したパズルを扱う";
+
+"title_about_app" = "このアプリについて";
+
+// operation menu
+"action_new" = "次のパズル";
+"action_save" = "保存";
+"action_restart" = "最初から";
+"action_clear_note" = "メモを消去";
+"action_play" = "プレイ";
+"action_edit" = "編集";
+"action_inspect" = "検証";
+"action_solve" = "自動解答";
+"action_quit" = "終了";
+"you_did" = "グッジョブ！！";
+
+// sudoku list view controller
+"loading_text" = "読み込み中...";
+"empty_text" = "保存されたパズルはありません";
+"delete_text" = "削除";
+"copy_text" = "複製";
+"text_playing" = "Playing";
+"text_making" = "Making";
+"text_solved" = "Solved";
+
+// messages
+"message_solving" = "パズルを解答中...";
+"message_solving_finished" = "パズルの解答が完了しました。";
+"message_not_solvable" = "このパズルは解けません。";
+"message_several_solutions" = "このパズルには複数の答えがあります。";
+"message_computation_error" = "申し訳ありません。計算中にエラーが発生しました。";
+"message_checking" = "パズルを検証中...";
+"message_solvable" = "このパズルは解けます。";
+"message_making" = "パズルを作成中...";
+"message_making_successed" = "パズルの作成が完了しました。";
+"message_making_failed" = "申し訳ありません。パズルの作成に失敗しました。";
+"message_save_successed" = "パズルが保存されました。";
+"message_save_failed" = "申し訳ありません。パズルの保存に失敗しました。";
+"message_change_save_successed" = "最新の変更が保存されました。";
+"message_change_save_failed" = "申し訳ありません。変更の保存に失敗しました。";
+
+"message_io_error" = "申し訳ありません。ファイルの読み込み中にエラーが発生しました。";
+
+// alert
+"alert_title_solved" = "おめでとう！";
+"alert_text_solved" = "パズルが解けました！!!\nタイム: %@";
+"alert_text_newpuzzle" = "次のパズルを解きますか？";
+"alert_text_restart" = "最初から解きなおしますか？";
+"alert_text_solve" = "自動解答機能を使いますか？";
+"alert_text_notsaved" = "現在のパズルは保存されていません。保存せずに終了しますか？";
+"alert_text_change_notsaved" = "最新の変更が保存されていません。保存せずに終了しますか？";
+"alert_text_delete" = "このパズルを削除しますか？";
+"alert_action_yes" = "はい";
+"alert_action_no" = "いいえ";
+"alert_action_ok" = "OK";
+"alert_action_cancel" = "キャンセル";
+"alert_action_quit" = "終了";
+"alert_action_delete" = "削除";
+
+
+// get the current language by tricky way
+"lang" = "JA";

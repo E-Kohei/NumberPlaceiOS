@@ -1,0 +1,25 @@
+(1) Options menu
+   Shows a list of actions you can do with the currently displayed puzzle.
+
+
+(2) Message area
+   Tells you the state or the result of the background process.
+
+
+(3) Selected square
+   You can select a square on the puzzle by tapping it. And then, you can fill in the square with a digit by tapping the digit in (6).
+
+
+(4) Memos
+   In the memo-mode, you can enter small digits in a square. This helps you with solving the puzzle, e.g you can remember which digit the square may be.
+
+
+(5) Mode-switch button
+   Switches the input mode, fill-mode/memo-mode. When the image on this button is a square with a small '1', it is memo-mode, and when a square with a large '1', it is fill-mode.
+
+
+(6) Number buttons
+   You can fill in the selected square of (3) with a digit by tapping one of these buttons. 'C' means 'clear' and clears the digit in the selected square.
+
+
+(7) To go back to the previous screen, select "Quit" in the options menu of (1).

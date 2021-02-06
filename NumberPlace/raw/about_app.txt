@@ -1,0 +1,16 @@
+Dive into the deep world of Number-Place!
+This application provides you with several utilities:
+Using this app, you can
+
+    - play large number of puzzles of 5 levels which are created randomly by puzzle-maker program,
+
+    - make a puzzle manually and check whether the puzzle is solvable,
+
+    - save any puzzles you're playing or making and resume playing or making the puzzles later,
+
+    - and find the answer of 'any' puzzle quickly by puzzle-solver program!!
+
+If you find a bug with this application and want me to fix them, feel free to send emails to report the bug.
+
+
+Email : norana.dev@gmail.com

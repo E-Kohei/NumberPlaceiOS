@@ -1,0 +1,3 @@
+Notice corresponding to the section 4 d of the Apache License 2.0:
+This products includes modified code developed by The Android Open Source Project
+https://github.com/android/architecture-components-sample

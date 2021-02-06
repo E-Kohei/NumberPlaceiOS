@@ -1,0 +1,3 @@
+Apache License 2.0 第4条d項に基づく掲示:
+このアプリケーションはAndroid Open Source Projectによるコードを一部改変したものを使用しています。
+https://github.com/android/architecture-components-samples

@@ -1,0 +1,18 @@
+(1) Undo button
+   Undo one operation.
+
+
+(2) Options menu
+   The actions you can do is as following.
+
+    * Save
+      Save the current puzzle. The saved puzzle can be accessed via 'Collection' in the main screen.
+
+    * Clear memo
+      Clear all memorandums.
+
+    * Check if solvable
+      Check if the current puzzle can be solved. Strictly speaking, 'solvable' means the puzzle has only one solution.
+
+    * Find answer
+      Find the answer of the current puzzle by puzzle-solver program.
