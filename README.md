@@ -1,4 +1,14 @@
-# NumberPlaceiOS
+NumberPlace
+===========
 
-NumberPlace (aka. s*doku) Application for iOS.
-I may or may not release this app someday...
+<img src="https://github.com/E-Kohei/NumberPlaceiOS/blob/main/screenshots/play.png" alt="play.png"/>
+
+iOS版ナンプレアプリ
+
+ナンプレの奥深い世界に飛び込もう！
+このアプリはユーザーに様々な機能を提供します。例えば、
+
+-　プログラムにより作られる5つのレベルに分かれた問題がプレーできます
+-　問題を一から作れて、さらにそれが解けるかどうか検証できます
+-　解きかけの問題、作りかけの問題は保存できて、後から続けることができます
+-　そして自動解答プログラムにより、「あらゆる」問題の答えがすぐに知ることができます！！
